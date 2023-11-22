@@ -28,7 +28,7 @@ twitter_username: kennethrperkins
 github_username:  NomadicSquirrel
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
